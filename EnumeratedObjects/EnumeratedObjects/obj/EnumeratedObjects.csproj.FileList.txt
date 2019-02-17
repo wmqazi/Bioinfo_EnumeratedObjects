@@ -1,0 +1,5 @@
+bin\Debug\EnumeratedObjects.dll
+bin\Debug\EnumeratedObjects.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EnumeratedObjects.dll
+obj\Debug\EnumeratedObjects.pdb
